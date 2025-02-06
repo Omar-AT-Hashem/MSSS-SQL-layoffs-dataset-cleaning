@@ -1,5 +1,4 @@
 # MSSS-SQL-layoffs-dataset-cleaning
-# Layoffs Data Cleaning Project
 
 This project focuses on cleaning and preparing a dataset containing layoff information. The dataset includes company names, locations, industries, and layoff details. The SQL script provided cleans and standardizes the data for further analysis.
 
