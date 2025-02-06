@@ -50,4 +50,4 @@ This project is open-source under the **MIT License**.
 
 ---
 
-**Author:** [Your Name](https://github.com/yourusername) 
+**Author:** [Omar Hashem](https://github.com/yourusername) 
